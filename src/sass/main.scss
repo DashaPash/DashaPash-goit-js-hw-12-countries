@@ -111,3 +111,7 @@ body {
     padding-top: 10px;
   }
 }
+
+.countries-list_item:not(:last-child) {
+  padding-bottom: 10px;
+}
